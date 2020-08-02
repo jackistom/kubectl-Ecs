@@ -1,0 +1,8 @@
+apiVersion: jackistom.k8s.io/v1
+kind: Sylixos
+metadata:
+  name: new-sylixos
+spec:
+  name: tamp
+  path: tamp
+
